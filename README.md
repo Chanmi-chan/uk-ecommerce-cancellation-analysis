@@ -133,7 +133,7 @@ You can view the Tableau dashboard here:
 
 ## Project Files
 - `cancellation_analysis.data.sql` → SQL queries used for filtering and aggregation
-- `data/sample_cancellation_data.csv` → sample cleaned data used for analysis
+- `cancelled_productes.csv` → sample cleaned data used for analysis
 - `tableau_dashboard.png` → dashboard preview image
 
 
