@@ -132,8 +132,9 @@ You can view the Tableau dashboard here:
 ---
 
 ## Project Files
-- `sql/cancellation_loss_analysis.sql` → SQL queries used for filtering and aggregation
+- `cancellation_analysis.data.sql` → SQL queries used for filtering and aggregation
 - `data/sample_cancellation_data.csv` → sample cleaned data used for analysis
-- `dashboard/tableau_dashboard.png` → dashboard preview image
+- `tableau_dashboard.png` → dashboard preview image
+
 
 
